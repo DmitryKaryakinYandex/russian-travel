@@ -12,4 +12,5 @@
 
 
 ------------
-##### ссылка проекта на GitHub :
+##### ссылка проекта на GitHub : [Проект №3][Проект №3]
+[Проект №3]: https://dmitrykaryakinyandex.github.io/russian-travel/index.html "Проект №3"

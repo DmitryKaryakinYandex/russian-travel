@@ -1,0 +1,28 @@
+.place__image-wrapper {
+  max-width: 460px;
+  grid-area: place__image;
+}
+  
+@media screen and (max-width: 1024px) {
+  .place__image-wrapper {
+    max-width: 440px;
+  }
+} 
+  
+@media screen and (max-width: 896px) {
+  .place__image-wrapper {
+    max-width: 390px;
+  }
+}  
+  
+@media screen and (max-width: 768px) {
+  .place__image-wrapper {
+    max-width: 340px;
+  }
+}
+  
+@media screen and (max-width: 600px) {
+  .place__image-wrapper {
+    max-width: 320px;
+  }
+}
