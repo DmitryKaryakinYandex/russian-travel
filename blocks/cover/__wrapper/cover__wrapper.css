@@ -1,0 +1,25 @@
+.cover__wrapper {
+  padding: 245px 312px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+  
+@media screen and (max-width: 1024px) {
+  .cover__wrapper {
+    padding: 195px 232px;
+  }
+}
+  
+@media screen and (max-width: 768px) {
+  .cover__wrapper {
+    padding: 115px 104px;
+  }
+}
+  
+@media screen and (max-width: 320px) {
+  .cover__wrapper {
+    padding: 33px 16px;
+  }
+}
