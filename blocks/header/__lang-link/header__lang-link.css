@@ -1,6 +1,4 @@
 .header__lang-link {
-  width: 30px;
-  height: 28px;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -14,15 +12,9 @@
 .header__lang-link:first-child {
   margin-left: 0;
 }
-  
-.header__lang-link:hover {
-  text-decoration: underline;
-}
-    
+
 @media screen and (max-width: 320px) {
   .header__lang-link {
-    height: 20px;
-    width: 22px;
     font-size: 18px;
   }
 }
